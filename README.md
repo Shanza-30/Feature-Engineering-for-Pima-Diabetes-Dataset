@@ -40,7 +40,6 @@ This project focuses on **feature engineering** to boost the performance of mach
 3. **Enhanced Model:** Logistic Regression retrained with original + engineered features.  
 4. **Evaluation:** 5-fold cross-validation, accuracy comparison, and performance visualization.
 
----
 
 ## Results
 - **Baseline Accuracy:** *[0.76]*  
@@ -53,4 +52,6 @@ This project focuses on **feature engineering** to boost the performance of mach
 - Numpy  
 - scikit-learn  
 - Matplotlib / Seaborn  
+
+
 
