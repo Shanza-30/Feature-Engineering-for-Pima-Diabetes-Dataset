@@ -1,7 +1,7 @@
 #  Feature Engineering for Model Gains
 
 ## Overview
-This project focuses on **feature engineering** to boost the performance of machine learning models on the **Pima Indians Diabetes dataset**. The goal is to create new synthetic features, retrain the model, and compare performance metrics before and after feature engineering.
+This project task 3 future xcel focuses on **feature engineering** to boost the performance of machine learning models on the **Pima Indians Diabetes dataset**. The goal is to create new synthetic features, retrain the model, and compare performance metrics before and after feature engineering.
 
 
 ## Dataset
